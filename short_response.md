@@ -13,19 +13,25 @@ qualities (your instructor will give you feedback on these areas):
 Write your response in the space provided. Make sure to preview your markdown
 to check how it is rendered before submitting.
 
-## Question 1
-
-### Prompt 1
+## Questions
 
 Use these terms correctly within your responses: **iterable**, **infinite loop**, and either **`break`** or **`continue`**.
 
-**Part 1.** For each job, say whether you would use a `for` loop or a `while` loop, and explain why. Then, in one sentence state the rule that you can follow to decide whether to use a `for` or `while` loop on any job.
+### Prompt 1
+
+For each job, say whether you would use a `for` loop or a `while` loop, and explain why. Then, in one sentence state the rule that you can follow to decide whether to use a `for` or `while` loop on any job.
 
 1. Print each letter of the user's name on its own line.
 2. Print a countdown from 10 down to 1.
 3. Keep asking for a password until the user types one at least 8 characters long.
 
-**Part 2.** A classmate wrote this program:
+### Response 1
+
+Your response here...
+
+### Prompt 2
+
+A classmate wrote this program:
 
 ```python
 password = input("Choose a password: ")
@@ -35,6 +41,6 @@ while len(password) < 8:
 
 Predict what happens when the user types `cat`, and explain why. How would you stop the program, and how would you fix it?
 
-### Response 1
+### Response 2
 
 Your response here...
