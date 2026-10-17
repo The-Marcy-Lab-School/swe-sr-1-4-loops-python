@@ -13,9 +13,11 @@ qualities (your instructor will give you feedback on these areas):
 Write your response in the space provided. Make sure to preview your markdown
 to check how it is rendered before submitting.
 
-## Questions
+## Question 1
 
-Use these terms correctly within your responses: **iterable**, **infinite loop**, and either **`break`** or **`continue`**.
+Use these terms correctly within your responses:
+
+- **iterable**
 
 ### Prompt 1
 
@@ -28,6 +30,13 @@ For each job, say whether you would use a `for` loop or a `while` loop, and expl
 ### Response 1
 
 Your response here...
+
+## Question 2
+
+Use these terms correctly within your responses:
+
+- **infinite loop**
+- either **`break`** or **`continue`**
 
 ### Prompt 2
 
